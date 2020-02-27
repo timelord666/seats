@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="157">
+    <path fill="#FFF" fill-rule="evenodd" d="M80 0c44.183 0 80 35.145 80 78.5 0 43.354-35.817 78.499-80 78.499S0 121.854 0 78.5C0 35.145 35.817 0 80 0z"/>
+    <path fill="#E8E8E8" fill-rule="evenodd" d="M32 97.599v-.8h96v.8H32z"/>
+    <text fill="#1E1E1E" font-family="MuseoSansCyrl" font-size="18" text-decoration="line-through" transform="matrix(.8 0 0 .8 57.086 85.158)">
+        <tspan>2 545 р.</tspan><tspan x="0" dy="2.611em"> </tspan>
+    </text>
+    <text fill="#D04545" font-family="MuseoSansCyrl" font-size="30" transform="matrix(.8 0 0 .8 46.302 123.6)">
+        1 850 р.
+    </text>
+    <text x="31" y="51.514" fill="#68B0C9" font-family="MuseoSansCyrl" font-size="17">
+        Скидка 28%
+    </text>
+</svg>

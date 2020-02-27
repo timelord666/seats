@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="150">
+    <path fill="#FFF" fill-rule="evenodd" d="M75 0c41.421 0 75 33.579 75 75s-33.579 75-75 75S0 116.421 0 75 33.579 0 75 0z"/>
+    <path fill="#E8E8E8" fill-rule="evenodd" d="M15 72v-1.001h120V72H15z"/>
+    <text x="43" y="61" fill="#1E1E1E" font-family="MuseoSansCyrl" font-size="18" text-decoration="line-through">
+        <tspan dy="-3.938">2 545 р.</tspan><tspan x="43" dy="2.611em"> </tspan>
+    </text>
+    <text x="25" y="106.062" fill="#D04545" font-family="MuseoSansCyrl" font-size="30">
+        1 850 р.
+    </text>
+</svg>
